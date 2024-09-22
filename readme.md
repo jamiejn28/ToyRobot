@@ -20,8 +20,9 @@ After running the file, use the terminal to input a given command.
 You can use command 'exit' to end the process.
 
 ## Unit tests
-To run the test file
+To run the test file, first instal jest. Then run test.
 
 ```bash
+$ npm install --save-dev jest ts-jest @types/jest
 $ npm test
 ```
