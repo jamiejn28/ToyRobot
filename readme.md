@@ -2,7 +2,7 @@
 
 ## Setup Instructions
 To run typescipt file, instal tsx.
-Then with project directory, run ToyRobot.ts
+Then within project directory, run ToyRobot.ts
 
 ```bash
 $ npm install -D tsx
